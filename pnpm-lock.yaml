@@ -2,11 +2,11 @@ lockfileVersion: 5.4
 
 specifiers:
   '@astrojs/node': ^5.0.3
-  astro: ^2.0.6
+  astro: ^2.0.14
 
 dependencies:
   '@astrojs/node': 5.0.3_astro@2.0.14
-  astro: link:../astro/packages/astro
+  astro: 2.0.14
 
 packages:
 
