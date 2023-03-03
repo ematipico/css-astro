@@ -1,0 +1,7 @@
+:root {
+    --fontHeader: 1.5rem;
+}
+
+h1 {
+    font-size: var(--fontHeader);
+}

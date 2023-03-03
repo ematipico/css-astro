@@ -1,0 +1,16 @@
+{
+	"name": "test-astro2",
+	"type": "module",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "astro dev",
+		"start": "astro dev",
+		"build": "astro build",
+		"preview": "astro preview",
+		"add": "astro add node"
+	},
+	"dependencies": {
+		"@astrojs/node": "^5.0.3",
+		"astro": "^2.0.6"
+	}
+}
